@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+    
+  "name": "Pokemon Showdown BOT",
+  "description": "Dev. by Ivan S. Cavalheiro",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "pokemon-icon.png"
+  },
+    "content_scripts":[
+        {
+            "matches": ["http://play.pokemonshowdown.com/*"],
+            "js": ["bridge.js", "pS_Bot.js"]
+        }
+    ],
+    
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}

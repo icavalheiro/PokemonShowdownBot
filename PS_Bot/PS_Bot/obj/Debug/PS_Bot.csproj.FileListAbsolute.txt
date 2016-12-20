@@ -1,0 +1,8 @@
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\bin\Debug\PS_Bot.dll
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\bin\Debug\PS_Bot.pdb
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\bin\Debug\Bridge.dll
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\bin\Debug\Bridge.Html5.dll
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\bin\Debug\Bridge.xml
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\bin\Debug\Bridge.Html5.xml
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\obj\Debug\PS_Bot.dll
+C:\Users\ivans\Dropbox\Softwares Faculdade\PokemonShowdownBot2.0\PS_Bot\PS_Bot\obj\Debug\PS_Bot.pdb
